@@ -1,15 +1,8 @@
 # Real-Time Stock Exchange API
 
-### 📷 Image Gallery
+### 📷 Interactive Image Gallery
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-  <img src="https://raw.githubusercontent.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/main/assets/1%20Post%20Register%20.png" width="250" />
-  <img src="https://raw.githubusercontent.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/main/assets/2%20Post%20TokenGen.png" width="250" />
-  <img src="https://raw.githubusercontent.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/main/assets/3%20Authenticate_Me.png" width="250" />
-  <img src="https://raw.githubusercontent.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/main/assets/4%20Place%20Oder.png" width="250" />
-  <img src="https://raw.githubusercontent.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/main/assets/5%20Get%20PortFolio%20details.png" width="250" />
-</div>
-
+👉 [Click here to view the image slider](https://umeshsamartapu.github.io/gh-pages/)
 
 A FastAPI-based backend simulating a stock exchange with:
 
