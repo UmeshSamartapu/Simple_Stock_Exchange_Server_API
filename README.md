@@ -1,5 +1,15 @@
 # Real-Time Stock Exchange API
 
+### 📷 Image Gallery
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="https://github.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/blob/main/assets/1%20Post%20Register%20.png" width="250" />
+  <img src="https://github.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/blob/main/assets/2%20Post%20TokenGen.png" width="250" />
+  <img src="https://github.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/blob/main/assets/3%20Authenticate_Me.png" width="250" />
+  <img src="https://github.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/blob/main/assets/4%20Place%20Oder.png" width="250" />
+  <img src="https://github.com/UmeshSamartapu/Simple_Stock_Exchange_Server_API/blob/main/assets/5%20Get%20PortFolio%20details.png" width="250" />
+</div>
+
 A FastAPI-based backend simulating a stock exchange with:
 
 - 🔐 JWT Auth & user accounts  
