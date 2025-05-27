@@ -2,7 +2,7 @@
 
 ### 📷 Interactive Image Gallery
 
-👉 ![Click here to view the image slider](https://umeshsamartapu.github.io/GH_PG/)
+👉 [Click here to view the image slider](https://umeshsamartapu.github.io/GH_PG/)
 
 A FastAPI-based backend simulating a stock exchange with:
 
